@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About me:
+- I’m currently a software engineering student at FPT University
+- I’m currently learning Web Development
+- Contact with me: hhthai2002@gmail.com
+
+[![My Skills](https://skillicons.dev/icons?i=java,dotnet,html,css,js,spring,pr,figma&theme=dark)](https://skillicons.dev)
