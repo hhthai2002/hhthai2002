@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 About me:
-- Graduated software engineering student from FPT University Danang
+- Graduated software engineering from FPT University Danang
 - Contact with me: hhthai2002@gmail.com
 
 [![My Skills](https://skillicons.dev/icons?i=java,dotnet,html,css,js,spring,react,azure,figma&theme=dark)](https://skillicons.dev)
