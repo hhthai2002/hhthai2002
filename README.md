@@ -21,3 +21,4 @@ About me:
 [![My Skills](https://skillicons.dev/icons?i=java,dotnet,html,css,js,spring,react,azure,figma&theme=dark)](https://skillicons.dev)
 ##
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hhthai2002&theme=dark)](https://git.io/streak-stats)
