@@ -1,8 +1,3 @@
-<!-- 🌈 RGB Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF,FF00CC,333399&height=120&section=header&text=Hi%20there!%20👋&fontSize=35&fontColor=ffffff" />
-</p>
-
 <!-- ✨ Title + Subtitle -->
 <h1 align="center">🌈 Welcome to My GitHub Universe 🌌</h1>
 <h3 align="center">🚀 Passionate Developer | 💡 Creative Thinker | 🧠 Lifelong Learner</h3>
