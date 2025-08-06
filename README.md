@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/hhthai2002/hhthai2002/main/cool-doge.gif" width="50"/>
   Ｈｉ， Ｉ'ｍ Ｈｉｅｕ Ｔｈａｉ
   <span style="float: right;">
-    <img src="https://komarev.com/ghpvc/?username=hhthai2002&label=Profile%20views&color=e90af5&style=flat-square"/>
+    <img src="https://komarev.com/ghpvc/?username=hhthai2002&label=Profile%20visitors&color=e90af5&style=flat-square"/>
   </span>
 </h1>
 
