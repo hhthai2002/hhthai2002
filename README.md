@@ -1,16 +1,10 @@
-<!-- 🌟 Neon RGB Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=🌈+Welcome+to+My+GitHub+Universe+🌌" />
-</h1>
+<!-- ✨ Title + Subtitle -->
+<h1 align="center">🌈 Welcome to My GitHub Universe 🌌</h1>
+<h3 align="center">🚀 Passionate Developer | 💡 Creative Thinker | 🧠 Lifelong Learner</h3>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=PASSION&message=CODE&color=FF00CC&style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/static/v1?label=FOCUS&message=GROWTH&color=00FFFF&style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/static/v1?label=SPIRIT&message=CREATIVITY&color=00FF99&style=for-the-badge&logo=figma" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=Hi%20there!%20👋&fontColor=ffffff&fontSize=40&textBg=true&animation=twinkling&height=80&desc=I'm%20hhthai2002%2C%20a%20developer%20who%20loves%20building%20beautiful%20things.&descAlignY=50&descAlign=70&colorGradient=FF00CC,00FFFF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF00CC&center=true&vCenter=true&width=700&lines=🚀+Software+Engineer+from+FPT+University;💡+Creative+Coding+Enthusiast;🌐+Let's+Build+the+Future+Together!" />
 </p>
 
 ---
@@ -62,7 +56,7 @@
 <!-- 🐍 Snake animation -->
 <h3 align="center">📈 Contributions Activity</h3>
 <p align="center">
-  <img src="https://github.com/hhthai2002/hhthai2002/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <!-- 👁️ Visitors Counter -->
