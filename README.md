@@ -1,13 +1,13 @@
 <!-- Header RGB Gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00CC,333399&height=120&section=header&text=Hi%20there!%20👋&fontSize=35&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00CC,333399&height=120&section=header&text=Hi%20there!%20👋&fontSize=35&fontColor=ffffff" />
 </p>
 
 <!-- Title -->
-<h1 align="center" style="color:#FF00CC;">🌈 Welcome to My GitHub Universe 🌌</h1>
+<h1 align="center">🌈 Welcome to My GitHub Universe 🌌</h1>
 <h3 align="center">✨ Let's create some magic together! ✨</h3>
 
-<!-- Social Links with glow effect -->
+<!-- Social Links -->
 <p align="center">
   <a href="http://linkedin.com/in/hieu-thai-huynh-63a942265" target="_blank">
     <img alt="LinkedIn" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
@@ -22,23 +22,23 @@
   </a>
 </p>
 
-<!-- Typing Animation with Rainbow Text -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF00CC&center=true&vCenter=true&width=700&lines=🚀+Software+Engineer+from+FPT+University;💡+Creative+Coding+Enthusiast;🌐+Let%27s+Build+the+Future+Together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF00CC&center=true&vCenter=true&width=700&lines=🚀+Software+Engineer+from+FPT+University;💡+Creative+Coding+Enthusiast;🌐+Let's+Build+the+Future+Together!" />
 </p>
 
-<!-- Tech Stack - Neon Glow Icons -->
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<!-- Tech Stack -->
+<h3 align="center">⚒️ Tech Stack & Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,dotnet,js,ts,html,css,react,nextjs,nodejs,azure,figma&theme=light" />
 </p>
 
-<!-- GitHub Snake Animation RGB style -->
+<!-- Snake Animation -->
 <p align="center">
   <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<!-- Footer with RGB Line -->
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=333399,FF00CC&height=120&section=footer" />
 </p>
