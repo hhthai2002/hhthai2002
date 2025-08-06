@@ -1,6 +1,6 @@
 <!-- Header RGB Gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00CC,333399&height=120&section=header&text=Hi%20there!%20👋&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there!%20👋&fontAlign=40&fontSize=50&fontColor=ffffff&fontAlignY=40&color=FF00CC,6E00FF,333399" />
 </p>
 
 <!-- Title -->
