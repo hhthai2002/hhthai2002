@@ -10,13 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=Hi%20there!%20👋&fontColor=ffffff&fontSize=40&textBg=true&animation=twinkling&height=80&desc=I'm%20hhthai2002%20and%20this%20is%20my%20GitHub%20Universe.&descAlignY=50&descAlign=70&colorGradient=FF00CC,00FFFF" />
-</p>
-
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF00CC&center=true&vCenter=true&width=700&lines=🚀+Software+Engineer+from+FPT+University;💡+Creative+Coding+Enthusiast;🌐+Let's+Build+the+Future+Together!" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=Hi%20there!%20👋&fontColor=ffffff&fontSize=40&textBg=true&animation=twinkling&height=80&desc=I'm%20hhthai2002%2C%20a%20developer%20who%20loves%20building%20beautiful%20things.&descAlignY=50&descAlign=70&colorGradient=FF00CC,00FFFF" />
 </p>
 
 ---
@@ -68,7 +62,7 @@
 <!-- 🐍 Snake animation -->
 <h3 align="center">📈 Contributions Activity</h3>
 <p align="center">
-  <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/hhthai2002/hhthai2002/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <!-- 👁️ Visitors Counter -->
