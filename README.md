@@ -22,11 +22,9 @@
   </a>
 </p>
 
-<!-- Typing Animation Section -->
+<!-- Typing Animation (Fixed) -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=false&width=600&lines=👨‍🎓+Software+Engineer+from+FPT+University;⚙️+Working+with+React%2C+Spring+Boot%2C+.NET;🌱+Always+learning+new+things+every+day;🤝+Let's+build+something+great+together!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=false&width=600&lines=👨‍🎓+Software+Engineer+from+FPT+University;⚙️+Working+with+React%2C+Spring+Boot%2C+.NET;🌱+Always+learning+new+things+every+day;🤝+Let's+build+something+great+together!" alt="Typing SVG" />
 </p>
 
 <!-- Skills -->
