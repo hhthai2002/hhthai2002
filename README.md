@@ -5,8 +5,7 @@
 
 <!-- Name -->
 <h1>
-  <img src="https://raw.githubusercontent.com/hhthai2002/hhthai2002/main/cool-doge.gif" width="30"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00ffff&center=true&vCenter=true&width=800&lines=Hi,+I'm+Hieu+Thai!" />
+  <img src="https://raw.githubusercontent.com/hhthai2002/hhthai2002/main/cool-doge.gif" width="30"/> 𝗛𝗶, 𝗜'𝗺 𝗛𝗶𝗲𝘂 𝗧𝗵𝗮𝗶
   <img src="https://komarev.com/ghpvc/?username=hhthai2002&label=Profile%20views&color=770677&style=flat-square" align="right" />
 </h1>
 
