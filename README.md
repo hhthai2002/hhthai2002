@@ -30,13 +30,11 @@
 
 <!-- Tech Stack -->
 <h3 align="center">⚒️ Tech Stack & Tools</h3>
-<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="right" alt="GIF description" src="./Skills_Animation_Dark.gif">
 </picture>
-</p>
 
 <!-- Snake Animation -->
 <p align="center">
