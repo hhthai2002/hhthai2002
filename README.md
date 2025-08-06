@@ -24,7 +24,10 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=true&width=435&lines=About+Me%3A;Software+Engineer+from+FPT+University;Love+React+%26+SpringBoot;Let%27s+Build+Something+Great+Together!"/>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6A11CB&center=true&width=600&lines=👨‍🎓+Software+Engineer+from+FPT+University;⚙️+Love+React,+Spring+Boot,+.NET;🚀+Let%27s+Build+Something+Great+Together!"
+    alt="Typing SVG"
+  />
 </p>
 
 <!-- Skills -->
