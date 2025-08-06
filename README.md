@@ -5,7 +5,7 @@
 
 <!-- Name -->
 <h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/3643/cool-doge.gif?1577305506" width="30" /> I'm Hieu Thai
+  # <img src="https://raw.githubusercontent.com/hhthai2002/hhthai2002/main/cool-doge.gif" width="30"/> I'm Hieu Thai
   <img src="https://komarev.com/ghpvc/?username=hhthai2002&label=Profile%20views&color=770677&style=flat-square" align="right" />
 </h1>
 
