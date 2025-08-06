@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hhthai2002/hhthai2002/main/iron-man-wp.jpg" width="100%" />
+</p>
+
 <!-- Header RGB Gradient -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=🌈+Welcome+to+My+GitHub+Universe;✨+Glowing+Dev+Vibes!" />
@@ -46,4 +50,8 @@
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hhthai2002/hhthai2002/main/iron-man-wp.jpg" width="100%" />
 </p>
