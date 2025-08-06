@@ -4,7 +4,11 @@
 </p>
 
 <!-- Name -->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Hieu Thai <p align="right"><img src="https://komarev.com/ghpvc/?username=hhthai2002&label=Profile%20views&color=770677&style=flat-square" /></p>
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
+  I'm Hieu Thai
+  <img src="https://komarev.com/ghpvc/?username=hhthai2002&label=Profile%20views&color=770677&style=flat-square" align="right" />
+</h1>
 
 <!-- Title -->
 <h3 align="center">✨ Let's create some magic together! ✨</h3>
