@@ -31,7 +31,7 @@
 <!-- Tech Stack -->
 <h3 align="center">⚒️ Tech Stack & Tools</h3>
 <p align="center">
-  <img src="./Skills_Animation_Dark.gif" alt="GIF description" width="800" />
+  <img src="./Skills_Animation_Dark.gif" alt="Skills Animation" width="400" />
 </p>
 
 <!-- Snake Animation -->
