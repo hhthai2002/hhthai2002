@@ -1,6 +1,6 @@
 <!-- Header RGB Gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there!%20👋&fontAlign=40&fontSize=50&fontColor=ffffff&fontAlignY=40&color=FF00CC,6E00FF,333399" />
+  <img src="https://raw.githubusercontent.com/rigdev/rigdev/main/assets/header-loop.gif" alt="Fancy Animated Header" width="100%" />
 </p>
 
 <!-- Title -->
