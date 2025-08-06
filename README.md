@@ -7,11 +7,9 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=hhthai2002&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
+
 ---
-<!-- View -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hhthai2002&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
+
 <!-- Title -->
 <h3 align="center">✨ Let's create some magic together! ✨</h3>
 
