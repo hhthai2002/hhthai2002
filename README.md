@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=🌈+Welcome+to+My+GitHub+Universe;✨+Glowing+Dev+Vibes!" />
 </p>
 
+---
+
 <!-- Title -->
 <h3 align="center">✨ Let's create some magic together! ✨</h3>
 
@@ -21,16 +23,22 @@
   </a>
 </p>
 
+---
+
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF00CC&center=true&vCenter=true&width=700&lines=🚀+Software+Engineer+from+FPT+University;💡+Creative+Coding+Enthusiast;🌐+Let's+Build+the+Future+Together!" />
 </p>
+
+---
 
 <!-- Tech Stack -->
 <h3 align="center">⚒️ Tech Stack & Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,dotnet,js,ts,html,css,react,nextjs,nodejs,azure,figma&theme=light" />
 </p>
+
+---
 
 <!-- Snake Animation -->
 <p align="center">
