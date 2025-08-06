@@ -7,6 +7,7 @@
 <h1>
   <img src="https://raw.githubusercontent.com/hhthai2002/hhthai2002/main/cool-doge.gif" width="50"/>
   Ｈｉ， Ｉ'ｍ Ｈｉｅｕ Ｔｈａｉ
+  <img src="https://raw.githubusercontent.com/hhthai2002/hhthai2002/main/kvn.gif" width="50"/>
   <span style="float: right;">
     <img src="https://komarev.com/ghpvc/?username=hhthai2002&label=visitors&color=e90af5&style=flat-square"/>
   </span>
