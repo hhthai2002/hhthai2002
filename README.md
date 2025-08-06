@@ -4,7 +4,6 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">🌈 Welcome to My GitHub Universe 🌌</h1>
 <h3 align="center">✨ Let's create some magic together! ✨</h3>
 
 <!-- Social Links -->
