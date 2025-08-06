@@ -4,7 +4,10 @@
 </p>
 
 ---
-
+<!-- View -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hhthai2002&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
 <!-- Title -->
 <h3 align="center">✨ Let's create some magic together! ✨</h3>
 
@@ -21,10 +24,6 @@
   <a href="mailto:hhthai2002@gmail.com" target="_blank">
     <img alt="Gmail" height="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
   </a>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hhthai2002&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
 <!-- Typing Animation -->
