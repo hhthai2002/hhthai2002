@@ -3,9 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=🌈+Welcome+to+My+GitHub+Universe;✨+Glowing+Dev+Vibes!" />
 </p>
 
+<!-- Name -->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Hieu Thai <img src="https://komarev.com/ghpvc/?username=hhthai2002&label=Profile%20views&color=770677&style=flat-square" />
-
----
 
 <!-- Title -->
 <h3 align="center">✨ Let's create some magic together! ✨</h3>
