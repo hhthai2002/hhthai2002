@@ -7,9 +7,9 @@
 <h1 align="center">🌈 Welcome to My GitHub Universe 🌌</h1>
 <h3 align="center">🚀 Passionate Developer | 💡 Creative Thinker | 🧠 Lifelong Learner</h3>
 
-<!-- ⌨️ Typing Animation -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00CC&center=true&vCenter=true&width=700&lines=🚀+Software+Engineer+from+FPT+University;💡+Creative+Coding+Enthusiast;🌐+Let's+Build+the+Future+Together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF00CC&center=true&vCenter=true&width=700&lines=🚀+Software+Engineer+from+FPT+University;💡+Creative+Coding+Enthusiast;🌐+Let's+Build+the+Future+Together!" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 <!-- 🐍 Snake animation -->
 <h3 align="center">📈 Contributions Activity</h3>
 <p align="center">
-  <img src="https://github.com/hhthai2002/hhthai2002/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <!-- 👁️ Visitors Counter -->
