@@ -1,6 +1,6 @@
 <!-- Header RGB Gradient -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" alt="neon header" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=🌈+Welcome+to+My+GitHub+Universe;✨+Glowing+Dev+Vibes!" />
 </p>
 
 <!-- Title -->
