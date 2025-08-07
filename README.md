@@ -43,7 +43,11 @@
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hhthai2002/hhthai2002/output/github-contribution-grid-snake.svg" />
+  <img 
+  src="https://raw.githubusercontent.com/hhthai2002/hhthai2002/output/github-contribution-grid-snake.svg" 
+  width="100%" 
+/>
+
 </p>
 
 <!--Footer--> 
