@@ -32,7 +32,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF00CC&center=true&vCenter=true&width=700&lines=🚀+Software+Engineer+from+FPT+University;💡+Creative+Coding+Enthusiast;🌐+Let's+Build+the+Future+Together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF00CC&center=true&vCenter=true&width=700&lines=🚀+Software+Engineering+from+FPT+University;💡+Creative+Coding+Enthusiast;🌐+Let's+Build+the+Future+Together!" />
 </p>
 
 <!-- Tech Stack -->
