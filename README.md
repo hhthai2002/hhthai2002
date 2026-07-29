@@ -1,52 +1,55 @@
-<!-- Header RGB Gradient -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=🌈+Welcome+to+My+GitHub+Universe;✨+Glowing+Dev+Vibes!" />
-</p>
+<div align="center">
 
-<!-- Name -->
-<h1>
-  <img src="https://raw.githubusercontent.com/hhthai2002/hhthai2002/main/cool-doge.gif" width="50"/>
-  Ｈｉ， Ｉ'ｍ Ｈｉｅｕ Ｔｈａｉ
-  <span style="float: right;">
-    <img src="https://komarev.com/ghpvc/?username=hhthai2002&label=visitors&color=e90af5&style=flat-square"/>
-  </span>
-</h1>
+# Hieu Thai
 
-<!-- Title -->
-<h3 align="center">✨ Let's create some magic together! ✨</h3>
+Software Engineer · FPT University
 
-<!-- Social Links -->
-<p align="center">
-  <a href="http://linkedin.com/in/hieu-thai-huynh-63a942265" target="_blank">
-    <img alt="LinkedIn" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/hh_thai/" target="_blank">
-    <img alt="Instagram" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:hhthai2002@gmail.com" target="_blank">
-    <img alt="Gmail" height="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-  </a>
-</p>
+</div>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF00CC&center=true&vCenter=true&width=700&lines=🚀+Software+Engineering+from+FPT+University;💡+Creative+Coding+Enthusiast;🌐+Let's+Build+the+Future+Together!" />
-</p>
+<br/>
 
-<!-- Tech Stack -->
-<h3 align="center">⚒️ Tech Stack & Tools</h3>
-<p align="center">
-  <img src="./Skills_Animation_Dark.gif" alt="Skills Animation" width="400" />
-</p>
+Xin chào, mình là **Hiếu Thái** — kỹ sư phần mềm chuyên về **Frontend Development**, yêu thích sự tối giản và tinh tế trong cả thiết kế lẫn code.
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hhthai2002/hhthai2002/output/github-contribution-grid-snake.svg" />
-</p>
+- Tập trung vào xây dựng giao diện sạch, có hệ thống và dễ mở rộng
+- Quan tâm đến chi tiết nhỏ: typography, spacing, animation tinh tế
+- Luôn học hỏi để làm sản phẩm tốt hơn mỗi ngày
 
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<br/>
+
+**Liên hệ**
+[LinkedIn](http://linkedin.com/in/hieu-thai-huynh-63a942265) · [Instagram](https://www.instagram.com/hh_thai/) · [Email](mailto:hhthai2002@gmail.com)
+
+<br/>
+
+---
+
+<br/>
+
+### Stack
+
+**Ngôn ngữ**
+JavaScript, TypeScript
+
+**Frontend**
+React, Next.js, Tailwind CSS
+
+**Backend**
+Node.js, Express, Spring Boot
+
+**Cơ sở dữ liệu**
+MySQL, MongoDB, PostgreSQL
+
+**Công cụ**
+Git, Docker, Figma
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+*"Đơn giản là sự tinh tế tối thượng."*
+
+</div>
