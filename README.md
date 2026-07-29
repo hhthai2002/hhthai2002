@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f0f1a&height=200&section=header&text=Huynh%20Hieu%20Thai&fontSize=44&fontColor=D4AF37&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=500&size=22&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&lines=Software+Developer;Fullstack+%7C+Web+%26+Mobile;Turning+ideas+into+clean+interfaces." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=500&size=22&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&lines=Frontend+Developer;Web+%26+Mobile+Enthusiast;Turning+ideas+into+clean+interfaces." />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-Hi, I'm **Huynh Hieu Thai**, a Software Engineering graduate from **FPT University Danang**. I'm currently working as a **Software Developer at Katsura Viet Nam JSC**, building web and mobile solutions across the full stack.
+Hi, I'm **Huynh Hieu Thai**, a Software Engineering graduate from **FPT University Danang**. Starting **10/08**, I'll be joining **SysOne Technology Joint Stock Company** as a **Frontend Developer**, following full-stack experience at Katsura Viet Nam JSC.
 
 I enjoy turning designs into clean, responsive interfaces and connecting them to solid, well-structured backend systems. Always open to new environments where I can grow further and take on long-term challenges.
 
@@ -18,9 +18,12 @@ I enjoy turning designs into clean, responsive interfaces and connecting them to
 
 ## Experience
 
+**Frontend Developer** — *SysOne Technology Joint Stock Company*
+`10/2026 – Present`
+
 **Software Developer** — *Katsura Viet Nam JSC*
-`09/2024 – Present`
-Developing and maintaining full-stack web & mobile solutions, including a timekeeping/employee management system (NextJS, React Native, .NET API), a production management system (NextJS, React Native, Swift, PostgreSQL, Firebase, Docker), and client websites built with NextJS, PHP, and .NET.
+`09/2024 – 08/2026`
+Developed and maintained full-stack web & mobile solutions, including a timekeeping/employee management system (NextJS, React Native, .NET API), a production management system (NextJS, React Native, Swift, PostgreSQL, Firebase, Docker), and client websites built with NextJS, PHP, and .NET.
 
 **Data Labeling Intern** — *Dev Plus Danang*
 `01/2024 – 03/2024`
