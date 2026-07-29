@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f0f1a&height=200&section=header&text=Hieu%20Thai&fontSize=50&fontColor=D4AF37&fontAlignY=45&animation=fadeIn" width="100%"/>
+# Hieu Thai
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=500&size=22&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&lines=Frontend+Developer;Web+%26+Mobile+Enthusiast;Turning+ideas+into+clean+interfaces." />
 
@@ -97,4 +97,6 @@ Docker, CI/CD, Linux, Git
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="1px"/>
+</div>
