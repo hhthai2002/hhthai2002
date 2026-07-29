@@ -1,55 +1,97 @@
 <div align="center">
 
-# Hieu Thai
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f0f1a&height=200&section=header&text=Huynh%20Hieu%20Thai&fontSize=44&fontColor=D4AF37&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-Software Engineer · FPT University
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=500&size=22&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&lines=Software+Developer;Fullstack+%7C+Web+%26+Mobile;Turning+ideas+into+clean+interfaces." />
 
 </div>
 
 <br/>
 
-Xin chào, mình là **Hiếu Thái** — kỹ sư phần mềm chuyên về **Frontend Development**, yêu thích sự tối giản và tinh tế trong cả thiết kế lẫn code.
+## About Me
 
-- Tập trung vào xây dựng giao diện sạch, có hệ thống và dễ mở rộng
-- Quan tâm đến chi tiết nhỏ: typography, spacing, animation tinh tế
-- Luôn học hỏi để làm sản phẩm tốt hơn mỗi ngày
+Hi, I'm **Huynh Hieu Thai**, a Software Engineering graduate from **FPT University Danang**. I'm currently working as a **Software Developer at Katsura Viet Nam JSC**, building web and mobile solutions across the full stack.
 
-<br/>
-
-**Liên hệ**
-[LinkedIn](http://linkedin.com/in/hieu-thai-huynh-63a942265) · [Instagram](https://www.instagram.com/hh_thai/) · [Email](mailto:hhthai2002@gmail.com)
+I enjoy turning designs into clean, responsive interfaces and connecting them to solid, well-structured backend systems. Always open to new environments where I can grow further and take on long-term challenges.
 
 <br/>
 
----
+## Experience
+
+**Software Developer** — *Katsura Viet Nam JSC*
+`09/2024 – Present`
+Developing and maintaining full-stack web & mobile solutions, including a timekeeping/employee management system (NextJS, React Native, .NET API), a production management system (NextJS, React Native, Swift, PostgreSQL, Firebase, Docker), and client websites built with NextJS, PHP, and .NET.
+
+**Data Labeling Intern** — *Dev Plus Danang*
+`01/2024 – 03/2024`
+
+**Java Internship Student** — *FPT Software Danang*
+`01/2023 – 04/2023`
 
 <br/>
 
-### Stack
+## Education
 
-**Ngôn ngữ**
-JavaScript, TypeScript
+**Bachelor in Software Engineering** — *FPT University Danang*
+`10/2020 – 04/2024`
+
+**Java Fullstack** — *Codegym Danang*
+`05/2022 – 09/2022`
+
+<br/>
+
+## Skills
 
 **Frontend**
-React, Next.js, Tailwind CSS
+ReactJS, NextJS, React Native, AngularJS
 
 **Backend**
-Node.js, Express, Spring Boot
+.NET API, Java, PHP
 
-**Cơ sở dữ liệu**
-MySQL, MongoDB, PostgreSQL
+**Database**
+PostgreSQL, MySQL, MS SQL Server
 
-**Công cụ**
-Git, Docker, Figma
+**DevOps & Tools**
+Docker, CI/CD, Linux, Git
 
 <br/>
 
----
+## Currently Learning
+
+- Deepening React & React Native performance optimization
+- Exploring cloud infrastructure and scalable deployment
+- Strengthening system design and architecture skills
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="1px"/>
+</div>
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/hhthai2002/hhthai2002/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+<br/>
+
+## Contact
+
+<div align="center">
+
+[LinkedIn](http://linkedin.com/in/hieu-thai-huynh-63a942265) · [Instagram](https://www.instagram.com/hh_thai/) · [Email](mailto:hhthai2002@gmail.com) · [Phone](tel:0966518625)
+
+</div>
 
 <br/>
 
 <div align="center">
 
-*"Đơn giản là sự tinh tế tối thượng."*
+*"Simplicity is the ultimate sophistication."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
