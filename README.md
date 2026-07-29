@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f0f1a&height=200&section=header&text=Huynh%20Hieu%20Thai&fontSize=44&fontColor=D4AF37&fontAlignY=45&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f0f1a&height=200&section=header&text=Hieu%20Thai&fontSize=50&fontColor=D4AF37&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=500&size=22&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&lines=Frontend+Developer;Web+%26+Mobile+Enthusiast;Turning+ideas+into+clean+interfaces." />
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-Hi, I'm **Huynh Hieu Thai**, a Software Engineering graduate from **FPT University Danang**. Starting **10/08**, I'll be joining **SysOne Technology Joint Stock Company** as a **Frontend Developer**, following full-stack experience at Katsura Viet Nam JSC.
+Hi, I'm **Huynh Hieu Thai**, a Software Engineering graduate from **FPT University Danang**. I'm currently working as a **Frontend Developer at SysOne Technology Joint Stock Company**, following full-stack experience at Katsura Viet Nam JSC.
 
 I enjoy turning designs into clean, responsive interfaces and connecting them to solid, well-structured backend systems. Always open to new environments where I can grow further and take on long-term challenges.
 
@@ -19,7 +19,7 @@ I enjoy turning designs into clean, responsive interfaces and connecting them to
 ## Experience
 
 **Frontend Developer** — *SysOne Technology Joint Stock Company*
-`10/2026 – Present`
+`08/2026 – Present`
 
 **Software Developer** — *Katsura Viet Nam JSC*
 `09/2024 – 08/2026`
