@@ -85,7 +85,7 @@ Docker, CI/CD, Linux, Git
 
 <div align="center">
 
-[LinkedIn](http://linkedin.com/in/hieu-thai-huynh-63a942265) · [Instagram](https://www.instagram.com/hh_thai/) · [Email](mailto:hhthai2002@gmail.com) · [Phone](tel:0966518625)
+[LinkedIn](http://linkedin.com/in/hieu-thai-huynh-63a942265) · [Instagram](https://www.instagram.com/hh_thai/) · [Email](mailto:hhthai2002@gmail.com)
 
 </div>
 
@@ -97,4 +97,6 @@ Docker, CI/CD, Linux, Git
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="1px"/>
+</div>
